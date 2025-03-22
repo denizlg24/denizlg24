@@ -41,25 +41,5 @@ I'm a passionate **Full-Stack Developer** and **Software Engineer** with experti
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
 </div>
 
----
-
-### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denizlg24&layout=compact&theme=radical)
-
----
-
-### 📫 Connect with Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/deniz-g%C3%BCnes-068509263/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://denizlg24.com">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/denizlg24">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-</div>
-
 
 
