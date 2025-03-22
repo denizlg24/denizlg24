@@ -2,6 +2,9 @@
 
 I'm a passionate **Full-Stack Developer** and **Software Engineer** with expertise in **TypeScript, JavaScript, C#, Python, Java, C++, Node.js, and RESTful APIs**. I love building scalable web applications, IoT solutions, and backend systems.
 
+[![Visits Badge](https://badges.pufler.dev/visits/denizlg24/denizlg24)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/denizlg24)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/all/denizlg24)](https://badges.pufler.dev)
 ---
 
 ### 🚀 About Me
@@ -41,13 +44,22 @@ I'm a passionate **Full-Stack Developer** and **Software Engineer** with experti
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=denizlg24&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denizlg24&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-g%C3%BCnes-068509263/)  
-[![Website](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://denizlg24.com)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/denizlg24)  
+<div align="center">
+  <a href="https://www.linkedin.com/in/deniz-g%C3%BCnes-068509263/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://denizlg24.com">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/denizlg24">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+
 
