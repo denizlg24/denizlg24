@@ -2,7 +2,7 @@
 
 I'm a passionate **Full-Stack Developer** and **Software Engineer** with expertise in **TypeScript, JavaScript, C#, Python, Java, C++, Node.js, and RESTful APIs**. I love building scalable web applications, IoT solutions, and backend systems.
 
-[![Visits Badge](https://badges.pufler.dev/visits/denizlg24/denizlg24)](https://badges.pufler.dev)
+[![Visits Badge](https://api.visitorbadge.io/api/VisitorHit?user=denizlg24f&repo=github-visitors-badge&countColor=%237B1E7A)
 [![Repos Badge](https://badges.pufler.dev/repos/denizlg24)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/all/denizlg24)](https://badges.pufler.dev)
 ---
