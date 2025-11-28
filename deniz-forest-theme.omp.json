@@ -1,0 +1,103 @@
+{
+  "blocks": [
+    {
+      "alignment": "left",
+      "segments": [
+        {
+          "foreground": "#DC143C",
+          "style": "plain",
+          "template": "\uf403 ",
+          "type": "root"
+        },
+        {
+          "foreground": "#98FB98",
+          "style": "plain",
+          "template": "\uf07b  {{ .Path }} ",
+          "type": "path",
+          "properties": {
+            "style": "folder"
+          }
+        },
+        {
+          "foreground": "#D2B48C",
+          "foreground_templates": [
+            "{{ if or (.Working.Changed) (.Staging.Changed) }}#CD5C5C{{ end }}"
+          ],
+          "properties": {
+            "branch_icon": "\ue725 ",
+            "fetch_status": true
+          },
+          "style": "plain",
+          "template": "<#A0522D>| </>\u007b\u007b .HEAD \u007d\u007d ",
+          "type": "git"
+        },
+        {
+          "foreground": "#556B2F",
+          "properties": {
+            "display_mode": "environment",
+            "fetch_virtual_env": true,
+            "home_enabled": true
+          },
+          "style": "plain",
+          "template": "<#A0522D>| </>\ue235 {{ if .Venv }}({{ .Venv }}) {{ end }}{{ .Full }}",
+          "type": "python"
+        }
+      ],
+      "type": "prompt"
+    },
+    {
+      "alignment": "right",
+      "segments": [
+        {
+          "foreground": "#E5C07B",
+          "style": "plain",
+          "template": "\udb81\udd1f {{ .FormattedMs }}<#A0522D> | </>",
+          "type": "executiontime"
+        },
+        {
+          "foreground": "#98FB98",
+          "foreground_templates": [
+            "{{ if gt .PhysicalPercentUsed 75.0 }}#CD5C5C{{ end }}"
+          ],
+          "style": "plain",
+          "template": "\uf06c {{ round .PhysicalPercentUsed .Precision }}% <#A0522D>| </>",
+          "type": "sysinfo",
+          "properties": {
+            "precision": 0
+          }
+        },
+        {
+          "foreground": "#8FBC8F",
+          "style": "plain",
+          "template": "\uf017 {{ .CurrentDate | date \"15:04\" }}",
+          "type": "time"
+        }
+      ],
+      "type": "prompt"
+    },
+    {
+      "alignment": "left",
+      "newline": true,
+      "segments": [
+        {
+          "foreground": "#2E8B57",
+          "style": "plain",
+          "template": "\uf1bb ",
+          "type": "text"
+        },
+        {
+          "foreground": "#8FBC8F",
+          "foreground_templates": [
+            "{{ if gt .Code 0 }}#CD5C5C{{ end }}"
+          ],
+          "style": "plain",
+          "template": "\uf105",
+          "type": "status"
+        }
+      ],
+      "type": "prompt"
+    }
+  ],
+  "final_space": true,
+  "version": 3
+}
