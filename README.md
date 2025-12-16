@@ -1,17 +1,41 @@
-### Hi there, I'm Deniz Güneş 🌟
+<!--
+Color direction: green tones, clean and modern.
+Intended for GitHub profile README (README.md at root of username repo).
+-->
 
-I'm a passionate **Full-Stack Developer** and **Software Engineer** with expertise in **TypeScript, JavaScript, C#, Python, Java, C++, Node.js, and RESTful APIs**. I love building scalable web applications, IoT solutions, and backend systems.
+<h1 align="center">Hi, I’m Deniz 🌿</h1>
+<h3 align="center">Software Engineer · Full-Stack Developer · Systems Builder</h3>
 
-![Visits Badge](https://views.whatilearened.today/views/github/denizlg24/github-clone-count-badge.svg)
-![GitHub followers](https://img.shields.io/github/followers/denizlg24?style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=denizlg24&label=Profile%20views&color=2e7d32&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/denizlg24?color=1b5e20&style=flat" alt="followers" />
+  <img src="https://img.shields.io/github/stars/denizlg24?color=388e3c&style=flat" alt="stars" />
+</p>
+
 ---
 
-### 🚀 About Me
-- 🌍 Co-founder & Lead Developer at **[Ocean Informatix](https://oceaninformatix.com)**
-- 🛠️ Creator of **[Shortn.at](https://shortn.at)**, a URL shortener with analytics & QR codes (used by Vida Económica)
-- 👨‍🎓 Pursuing a **BSc in Computing and Informatics Engineering** at **FEUP**
-- ⚔️ Former **National Handball Team Goalkeeper** & American Football Athlete in Germany
-- 💡 Always exploring new technologies and open to collaborations!
+## 🌱 About Me
+
+I’m a **Software Engineer** focused on building **robust, scalable, and well-architected systems**.  
+My work spans **web platforms, backend services, and distributed / IoT systems**, with a strong emphasis on correctness, performance, and maintainability.
+
+I’m currently pursuing a **BSc in Computing and Informatics Engineering at FEUP**, while working on real-world products and client systems through my company, **Ocean Informatix**.
+
+I value:
+- Clean architectures
+- Predictable systems
+- Thoughtful developer experience
+- Software that survives first contact with real users
+
+---
+
+## 🟢 What I’m Working On
+
+- **Ocean Informatix** — Custom software and web solutions  
+- **Shortn.at** — URL shortener with analytics, QR codes, link-in-bio, and payments  
+- **Next.js & Backend Platforms** — Auth, billing, dashboards, real-time systems  
+- **IoT & Messaging Systems** — MQTT, Kafka, real-time monitoring  
+- **Portfolio & Writing** — Technical blogs and case studies
 
 ---
 
@@ -40,5 +64,68 @@ I'm a passionate **Full-Stack Developer** and **Software Engineer** with experti
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
 </div>
 
+---
+## 🧩 Featured Projects
 
+### 🌿 Shortn.at
+A production-grade URL shortener and analytics platform.
 
+**Highlights**
+- Custom JWT-based authentication with social login
+- Stripe billing and plan management
+- Detailed link analytics and event tracking
+- Link-in-bio and QR code generation
+- Used by real companies in production
+
+**Stack**
+- React (Vite) + TypeScript + Tailwind  
+- Node.js + Express  
+- MongoDB  
+- Stripe
+
+---
+
+### 🌲 IoT Fire Monitoring System
+A distributed fire-alarm monitoring architecture.
+
+**Highlights**
+- MQTT gateways per building
+- Kafka cloud ingestion and processing
+- MongoDB persistence with live + historical collections
+- Real-time WebSocket dashboards
+- Dynamic topic and tenant handling
+
+---
+
+## 🏈 Beyond Code
+
+Before software, sports shaped how I work.
+
+- Former **national team handball goalkeeper**
+- Captain of competitive teams
+- Played **American football in Germany**
+- Strong belief in discipline, teamwork, and resilience
+
+These experiences heavily influence how I approach engineering and leadership.
+
+---
+
+## 🌍 Languages
+
+- Portuguese  
+- English  
+- Turkish  
+
+---
+
+## 📫 Get in Touch
+
+- Portfolio: **https://your-portfolio-url**
+- Email: **your@email.com**
+- LinkedIn: **https://linkedin.com/in/your-profile**
+
+---
+
+<p align="center">
+  <sub>Built with care, intention, and a lot of green.</sub>
+</p>
