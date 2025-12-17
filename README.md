@@ -1,20 +1,13 @@
-<!--
-Color direction: green tones, clean and modern.
-Intended for GitHub profile README (README.md at root of username repo).
--->
-
 <h1 align="center">Hi, I’m Deniz 🌿</h1>
 <h3 align="center">Software Engineer · Full-Stack Developer · Systems Builder</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=denizlg24&label=Profile%20views&color=2e7d32&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/denizlg24?color=1b5e20&style=flat" alt="followers" />
-  <img src="https://img.shields.io/github/stars/denizlg24?color=388e3c&style=flat" alt="stars" />
-</p>
 
 ---
 
 ## 🌱 About Me
+
+![](https://komarev.com/ghpvc/?username=denizlg24&label=Profile%20views&color=2e7d32&style=flat)
+![](https://img.shields.io/github/followers/denizlg24?color=1b5e20&style=flat)
+![](https://img.shields.io/github/stars/denizlg24?color=388e3c&style=flat)
 
 I’m a **Software Engineer** focused on building **robust, scalable, and well-architected systems**.  
 My work spans **web platforms, backend services, and distributed / IoT systems**, with a strong emphasis on correctness, performance, and maintainability.
