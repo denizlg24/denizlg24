@@ -113,9 +113,9 @@ These experiences heavily influence how I approach engineering and leadership.
 
 ## 📫 Get in Touch
 
-- Portfolio: **https://your-portfolio-url**
-- Email: **your@email.com**
-- LinkedIn: **https://linkedin.com/in/your-profile**
+- Portfolio: **https://denizlg24.com**
+- Email: **denizlg24@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/deniz-g%C3%BCnes-068509263**
 
 ---
 
