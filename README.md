@@ -14,22 +14,6 @@ My work spans **web platforms, backend services, and distributed / IoT systems**
 
 I’m currently pursuing a **BSc in Computing and Informatics Engineering at FEUP**, while working on real-world products and client systems through my company, **Ocean Informatix**.
 
-I value:
-- Clean architectures
-- Predictable systems
-- Thoughtful developer experience
-- Software that survives first contact with real users
-
----
-
-## 🟢 What I’m Working On
-
-- **Ocean Informatix** — Custom software and web solutions  
-- **Shortn.at** — URL shortener with analytics, QR codes, link-in-bio, and payments  
-- **Next.js & Backend Platforms** — Auth, billing, dashboards, real-time systems  
-- **IoT & Messaging Systems** — MQTT, Kafka, real-time monitoring  
-- **Portfolio & Writing** — Technical blogs and case studies
-
 ---
 
 ### 🛠 Tech Stack
@@ -56,37 +40,6 @@ I value:
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
 </div>
-
----
-## 🧩 Featured Projects
-
-### 🌿 Shortn.at
-A production-grade URL shortener and analytics platform.
-
-**Highlights**
-- Custom JWT-based authentication with social login
-- Stripe billing and plan management
-- Detailed link analytics and event tracking
-- Link-in-bio and QR code generation
-- Used by real companies in production
-
-**Stack**
-- React (Vite) + TypeScript + Tailwind  
-- Node.js + Express  
-- MongoDB  
-- Stripe
-
----
-
-### 🌲 IoT Fire Monitoring System
-A distributed fire-alarm monitoring architecture.
-
-**Highlights**
-- MQTT gateways per building
-- Kafka cloud ingestion and processing
-- MongoDB persistence with live + historical collections
-- Real-time WebSocket dashboards
-- Dynamic topic and tenant handling
 
 ---
 
@@ -116,9 +69,3 @@ These experiences heavily influence how I approach engineering and leadership.
 - Portfolio: **https://denizlg24.com**
 - Email: **denizlg24@gmail.com**
 - LinkedIn: **https://www.linkedin.com/in/deniz-g%C3%BCnes-068509263**
-
----
-
-<p align="center">
-  <sub>Built with care, intention, and a lot of green.</sub>
-</p>
