@@ -1,0 +1,263 @@
+{
+  "version": 3,
+  "lines": [
+    [
+      {
+        "id": "1f326770-b32d-411f-a413-13bd248e0b90",
+        "type": "current-working-dir",
+        "color": "green",
+        "rawValue": true,
+        "metadata": {
+          "abbreviateHome": "true"
+        }
+      },
+      {
+        "id": "7b37b1a3-a97a-409c-93d9-76facff5952c",
+        "type": "separator",
+        "character": " "
+      },
+      {
+        "id": "1b4aa5d2-5c2c-4f31-b4d9-56ec7592031b",
+        "type": "custom-symbol",
+        "color": "brightBlack",
+        "dim": true,
+        "customSymbol": "·"
+      },
+      {
+        "id": "1e07d37e-0950-458c-822b-c5b4539565ce",
+        "type": "separator",
+        "character": " "
+      },
+      {
+        "id": "a435f3cd-e32d-4cd9-9588-e479c15822fc",
+        "type": "model",
+        "color": "brightRed",
+        "rawValue": true
+      },
+      {
+        "id": "637f88b4-243a-4794-be0a-5a0fef9478a3",
+        "type": "separator",
+        "character": " "
+      },
+      {
+        "id": "165e5ce3-01fa-4134-9afd-03c5265444bc",
+        "type": "thinking-effort",
+        "rawValue": true,
+        "color": "brightRed"
+      },
+      {
+        "id": "4158f4fb-ada0-4373-91aa-8ad197794774",
+        "type": "separator",
+        "character": " "
+      },
+      {
+        "id": "92d10a1b-5e34-4a8e-a9d6-3ed7dfc6efc7",
+        "type": "custom-symbol",
+        "color": "brightBlack",
+        "dim": true,
+        "customSymbol": "·"
+      },
+      {
+        "id": "daa2375b-af79-4658-a1e3-aee4552e6cd3",
+        "type": "separator",
+        "character": " "
+      },
+      {
+        "id": "785fa587-020e-4ad8-bf4c-ad3c57374d65",
+        "type": "session-usage",
+        "color": "white",
+        "dim": true,
+        "rawValue": true,
+        "metadata": {
+          "display": "progress-short",
+          "cursor": "false",
+          "invert": "true"
+        }
+      },
+      {
+        "id": "802a8306-2ffc-4f82-b311-cd896b82b739",
+        "type": "separator",
+        "character": " "
+      },
+      {
+        "id": "f3b0627d-118c-46fb-a857-c2a66375384d",
+        "type": "custom-symbol",
+        "color": "brightBlack",
+        "dim": true,
+        "customSymbol": "·"
+      },
+      {
+        "id": "36c6e4c9-fbe0-4f0f-a103-bd4c24d0dde1",
+        "type": "separator",
+        "character": " "
+      },
+      {
+        "id": "b96a6834-374e-4b4c-af64-b335fac83b27",
+        "type": "git-insertions",
+        "color": "green"
+      },
+      {
+        "id": "e6579310-5936-4792-80bf-7029af940c05",
+        "type": "separator",
+        "character": " "
+      },
+      {
+        "id": "54a2faf5-087c-4dd0-976e-78cebf3fffd4",
+        "type": "git-deletions"
+      },
+      {
+        "id": "d59b8bfa-b3a6-4d2e-ba10-a6e40e80531b",
+        "type": "separator",
+        "character": " "
+      },
+      {
+        "id": "2949d73c-e79f-4dda-8259-081dc2b6ea0f",
+        "type": "custom-symbol",
+        "color": "brightBlack",
+        "dim": true,
+        "customSymbol": "·"
+      },
+      {
+        "id": "dd667a6e-2efa-4881-84b3-fb3ae92afd95",
+        "type": "separator",
+        "character": " "
+      },
+      {
+        "id": "cbff9633-ca93-423f-a78c-7fdecfce9a70",
+        "type": "session-cost",
+        "color": "brightBlack",
+        "rawValue": true
+      },
+      {
+        "id": "8536f822-b6de-4a37-81ca-9c89e11aca19",
+        "type": "flex-separator",
+        "color": "brightBlack",
+        "dim": true
+      },
+      {
+        "id": "b02def29-43d5-4d93-abea-8b20d2a76ea7",
+        "type": "git-branch",
+        "color": "brightBlue",
+        "rawValue": true,
+        "metadata": {
+          "hideNoGit": "true",
+          "linkToRepo": "true"
+        }
+      }
+    ],
+    [
+      {
+        "id": "8ae1ca91-f274-426d-9e89-782e62090158",
+        "type": "free-memory",
+        "rawValue": true,
+        "color": "brightYellow",
+        "dim": true
+      },
+      {
+        "id": "9586c02a-39f2-40b4-bc59-475204684880",
+        "type": "separator",
+        "character": " "
+      },
+      {
+        "id": "02063a7a-e906-4b13-92a6-21644ba9c120",
+        "type": "custom-symbol",
+        "color": "brightBlack",
+        "dim": true,
+        "customSymbol": "·"
+      },
+      {
+        "id": "f3b32972-ddc8-4106-85ec-481470035b08",
+        "type": "separator",
+        "character": " "
+      },
+      {
+        "id": "2b4b5538-8aa0-459a-903d-46c432e2588d",
+        "type": "session-clock",
+        "color": "brightCyan",
+        "dim": true,
+        "rawValue": true
+      },
+      {
+        "id": "9219bffe-64ed-4504-abe4-b1c3a35e08a2",
+        "type": "flex-separator",
+        "dim": true
+      },
+      {
+        "id": "70274028-5148-4f44-8d1a-8245dd669679",
+        "type": "custom-symbol",
+        "color": "magenta",
+        "dim": true,
+        "customSymbol": "⟲"
+      },
+      {
+        "id": "38cfb3a2-8a5c-448d-92d9-64ccf9d10978",
+        "type": "separator",
+        "character": " "
+      },
+      {
+        "id": "ba2d6dbf-ce50-4de4-b8b1-baf9ba380b74",
+        "type": "reset-timer",
+        "color": "brightMagenta",
+        "dim": true,
+        "rawValue": true,
+        "metadata": {
+          "display": "time"
+        }
+      },
+      {
+        "id": "c2d3d6fc-e0bc-4ee9-81fc-18320e498b4f",
+        "type": "separator",
+        "character": " "
+      },
+      {
+        "id": "d0aca567-0017-4d64-952b-9e9db52c4fc4",
+        "type": "custom-symbol",
+        "color": "brightBlack",
+        "dim": true,
+        "customSymbol": "·"
+      },
+      {
+        "id": "dfe6b0da-e7ff-4037-8147-9702fc0e8941",
+        "type": "separator",
+        "character": " "
+      },
+      {
+        "id": "318d805c-7309-4b1b-b32c-cdb61d9e51f7",
+        "type": "weekly-usage",
+        "color": "brightMagenta",
+        "dim": true,
+        "rawValue": true,
+        "metadata": {
+          "display": "progress-short",
+          "cursor": "true",
+          "invert": "true"
+        }
+      }
+    ]
+  ],
+  "flexMode": "full-until-compact",
+  "compactThreshold": 60,
+  "colorLevel": 2,
+  "defaultPadding": "",
+  "inheritSeparatorColors": false,
+  "globalBold": false,
+  "gitCacheTtlSeconds": 5,
+  "minimalistMode": false,
+  "powerline": {
+    "enabled": false,
+    "separators": [
+      ""
+    ],
+    "separatorInvertBackground": [
+      false
+    ],
+    "startCaps": [],
+    "endCaps": [],
+    "autoAlign": false,
+    "continueThemeAcrossLines": false
+  },
+  "installation": {
+    "method": "pinned",
+    "installedVersion": "2.2.22"
+  }
+}
