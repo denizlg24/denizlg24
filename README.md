@@ -63,7 +63,7 @@ I’m also the founder of **Ocean Informatix**, where I build websites, platform
 
 ## Research & Publications
 
-* Submited Paper at INForum 2026 (waiting review): **[GNN-Guided Graph Partitioning for Spatial CGRA Mapping](https://storage.denizlg24.com/api/share/297f6716-fb27-4f5a-a7b9-b0a74c2627c4.0.cf792f5f0951d3417fa911106968b7d98f0397e6d5815c1bedf9826364efc623)**
+* Published Paper at INForum 2026: **[GNN-Guided Graph Partitioning for Spatial CGRA Mapping](https://storage.denizlg24.com/api/share/297f6716-fb27-4f5a-a7b9-b0a74c2627c4.0.cf792f5f0951d3417fa911106968b7d98f0397e6d5815c1bedf9826364efc623)**
 
 My current research interests are moving toward **EDGE AI**, especially the hardware accelerators and memory optimization for ML models.
 
