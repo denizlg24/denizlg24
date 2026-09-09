@@ -33,12 +33,6 @@ I’m also the founder of **Ocean Informatix**, where I build websites, platform
 
 ---
 
-## Agent Configuration
-
-My shared coding-agent setup is versioned here: [global Claude instructions](CLAUDE.md), [specialist agents](.claude/agents), and the [cross-agent skills catalog](AGENT_SKILLS.md).
-
----
-
 ## Beyond Code
 
 Before software, sports shaped the way I work.
