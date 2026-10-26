@@ -3,6 +3,16 @@
 
 ---
 
+## Building Shortn
+
+[Shortn](https://shortn.at/en?utm_source=github&utm_medium=profile&utm_campaign=print_once) brings short links, dynamic QR codes and link-in-bio pages into one workspace for teams publishing in print and online.
+
+Print a QR code once, then update its destination when a page moves or a campaign changes. Track clicks and scans, and organize a growing link library with tags and campaigns.
+
+[Start for free](https://app.shortn.at/register?utm_source=github&utm_medium=profile&utm_campaign=print_once&utm_content=signup) · [Read the printed QR guide](https://denizlg24.com/blog/how-to-change-a-printed-qr-codes-destination-without-reprinting?utm_source=github&utm_medium=profile&utm_campaign=print_once)
+
+---
+
 ## Research & Publications
 
 * Published Paper at INForum 2026: **[GNN-Guided Graph Partitioning for Spatial CGRA Mapping](https://storage.denizlg24.com/api/share/297f6716-fb27-4f5a-a7b9-b0a74c2627c4.0.cf792f5f0951d3417fa911106968b7d98f0397e6d5815c1bedf9826364efc623)**
